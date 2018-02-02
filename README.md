@@ -1,5 +1,10 @@
 # IAI Kinect2
 
+# **NOTE:**
+### This is a fork from [IAI_Kinect2](https://github.com/code-iai/iai_kinect2.git) software. Unfortunately, it is [no longer mantained](https://github.com/code-iai/iai_kinect2/issues/429), so this version has been created to ensure the compatibility with LSI platforms. This fork includes fixes for OpenCV 3, the calibration files for our Kinect sensors, and different launch configurations.
+
+## *Original README file below:*
+
 ## Maintainer
 
 - [Thiemo Wiedemeyer](https://ai.uni-bremen.de/team/thiemo_wiedemeyer) <<wiedemeyer@cs.uni-bremen.de>>, [Institute for Artificial Intelligence](http://ai.uni-bremen.de/), University of Bremen
